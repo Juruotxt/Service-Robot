@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/devel
+
+Name: rei_lidar_fuse
+Description: Description of rei_lidar_fuse
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

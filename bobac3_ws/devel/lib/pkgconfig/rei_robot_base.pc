@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/devel
+
+Name: rei_robot_base
+Description: Description of rei_robot_base
+Version: 0.0.0
+Cflags: -I/home/bobac3/bobac3_ws/devel/include -I/home/bobac3/bobac3_ws/src/rei_robot_base/include
+Libs: -L${prefix}/lib -lrei_robot_base
+Requires: std_msgs roscpp rospy sensor_msgs message_runtime

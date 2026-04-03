@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/devel
+
+Name: multi_task
+Description: Description of multi_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

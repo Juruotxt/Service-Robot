@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/devel
+
+Name: bobac3_audio
+Description: Description of bobac3_audio
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

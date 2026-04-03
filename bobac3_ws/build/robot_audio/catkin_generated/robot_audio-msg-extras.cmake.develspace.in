@@ -1,0 +1,2 @@
+set(robot_audio_MESSAGE_FILES "")
+set(robot_audio_SERVICE_FILES "/home/bobac3/bobac3_ws/src/robot_audio/srv/robot_iat.srv;/home/bobac3/bobac3_ws/src/robot_audio/srv/robot_semanteme.srv;/home/bobac3/bobac3_ws/src/robot_audio/srv/robot_tts.srv;/home/bobac3/bobac3_ws/src/robot_audio/srv/Collect.srv;/home/bobac3/bobac3_ws/src/robot_audio/srv/Awake.srv;/home/bobac3/bobac3_ws/src/robot_audio/srv/Control.srv;/home/bobac3/bobac3_ws/src/robot_audio/srv/Nav.srv;/home/bobac3/bobac3_ws/src/robot_audio/srv/up_sync.srv")

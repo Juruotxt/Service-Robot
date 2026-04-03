@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,librei_robot_base.so -o /home/bobac3/bobac3_ws/devel/lib/librei_robot_base.so CMakeFiles/rei_robot_base.dir/src/rei_robot_base.cpp.o -lmodbus 

@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/devel
+
+Name: deep_camera_scan_filter
+Description: Description of deep_camera_scan_filter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

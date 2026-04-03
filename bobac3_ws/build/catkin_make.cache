@@ -1,0 +1,2 @@
+ar_pose:auto_charging:bobac3_audio:bobac3_description:bobac3_navigation:deep_camera_scan_filter:face_rec:improve_rrt_connect:multi_task:nav_goal:pid_lib:rei_robot_base:rei_robot_cruise:relative_move:robot_audio:secondary_localization
+-DCATKIN_DEVEL_PREFIX=/home/bobac3/bobac3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bobac3/bobac3_ws/install -G Unix Makefiles

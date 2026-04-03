@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/install
+
+Name: secondary_localization
+Description: Description of secondary_localization
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

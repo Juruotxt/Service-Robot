@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/install
+
+Name: improve_rrt_connect
+Description: Description of improve_rrt_connect
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

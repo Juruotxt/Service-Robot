@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/devel
+
+Name: robot_audio
+Description: Description of robot_audio
+Version: 0.0.0
+Cflags: -I/home/bobac3/bobac3_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

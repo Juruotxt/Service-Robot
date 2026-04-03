@@ -1,0 +1,8 @@
+prefix=/home/bobac3/bobac3_ws/devel
+
+Name: rei_robot_cruise
+Description: Description of rei_robot_cruise
+Version: 0.0.0
+Cflags: -I/home/bobac3/bobac3_ws/devel/include -I/home/bobac3/bobac3_ws/src/rei_robot_cruise/include
+Libs: -L${prefix}/lib -lrei_robot_cruise
+Requires: actionlib move_base_msgs roscpp visualization_msgs message_runtime

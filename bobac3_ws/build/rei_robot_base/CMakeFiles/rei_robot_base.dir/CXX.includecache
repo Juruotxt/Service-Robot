@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bobac3/bobac3_ws/src/rei_robot_base/include/rei_robot_base/rei_print.h
+
+/home/bobac3/bobac3_ws/src/rei_robot_base/include/rei_robot_base/rei_robot_base.h
+modbus/modbus-rtu.h
+-
+memory
+-
+iostream
+-
+vector
+-
+
+/home/bobac3/bobac3_ws/src/rei_robot_base/src/rei_robot_base.cpp
+rei_robot_base/rei_robot_base.h
+-
+rei_robot_base/rei_print.h
+-
+string.h
+-
+
